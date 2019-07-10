@@ -1,0 +1,41 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+header h1 {
+    margin-right: 0px;
+}
+header img {
+    margin-left: 0px;
+}
+p {
+    color: darkseagreen;
+}
+}
+.lead {
+    font-weight: bold;
+    font-size: 1.1rem;
+    font-style: helvetica;
+}
+.logo {
+    height: 200px;
+}
+.list-heading {
+    margin: 20px;
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+}
+body {
+    text-align: center;
+}
+article ul li {
+    
+    
+    margin-bottom: 10px;
+
+}
+article ul {
+    list-style-type: none;
+}
